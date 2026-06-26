@@ -1,0 +1,13 @@
+{
+  "name": "Hide Stats",
+  "description": "Hides monthly listener count on artists and play counts on songs",
+  "preview": "preview.png",
+  "version": "1.0.0",
+  "main": "hide-stats.js",
+  "authors": [
+    {
+      "name": "gitsalnoe",
+      "url": "https://github.com/gitsalnoe"
+    }
+  ]
+}
