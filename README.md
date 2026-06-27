@@ -1,6 +1,6 @@
-# Hide Stats
+# Hide Listener Stats
 
-A Spicetify extension that removes listening statistics from Spotify for a cleaner, distraction-free experience.
+Removes listening statistics from Spotify for a cleaner, distraction-free experience.
 
 ## What it hides
 - Monthly listener count on artist pages
@@ -10,7 +10,7 @@ A Spicetify extension that removes listening statistics from Spotify for a clean
 ## Install
 1. Open Spotify with Spicetify installed
 2. Go to the Marketplace
-3. Search for "Hide Stats"
+3. Search for "Hide Listener Stats"
 4. Click Install
 
 ## Manual Install
