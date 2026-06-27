@@ -14,9 +14,9 @@ Removes listening statistics from Spotify for a cleaner, distraction-free experi
 4. Click Install
 
 ## Manual Install
-1. Download `hide-stats.js`
+1. Download `hidestats.js`
 2. Copy it to `%APPDATA%\spicetify\Extensions\`
-3. Run `spicetify config extensions hide-stats.js`
+3. Run `spicetify config extensions hidestats.js`
 4. Run `spicetify apply`
 
 ## Credits
