@@ -19,6 +19,15 @@
       .artist-artistAbout-content > .encore-text-body-medium-bold {
         display: none !important;
       }
+      .main-trackList-playsHeader {
+        display: none !important;
+      }
+      [aria-colindex="3"][role="columnheader"] {
+        display: none !important;
+      }
+      .main-entityHeader-metaData > .main-entityHeader-metaDataTextSubdued {
+        display: none !important;
+      }
     `;
     document.head.appendChild(style);
   }
