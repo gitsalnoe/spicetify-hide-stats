@@ -3,7 +3,7 @@
     "name": "Hide Listener Stats",
     "description": "Hides the monthly listener count on artist pages and play counts on songs for a cleaner, distraction-free Spotify experience.",
     "preview": "preview.png",
-    "main": "hide-stats.js",
+    "main": "hidestats.js",
     "readme": "README.md",
     "authors": [
       { "name": "gitsalnoe", "url": "https://github.com/gitsalnoe" }
